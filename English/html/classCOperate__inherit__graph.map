@@ -1,0 +1,33 @@
+<map id="COperate" name="COperate">
+<area shape="rect" id="Node000001" title="Operate interface." alt="" coords="128,276,211,301"/>
+<area shape="rect" id="Node000003" href="$classCOperateDesktop.html" title="Remote desktop operate interface." alt="" coords="269,104,407,129"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,264,322,128,326,132,194,268"/>
+<area shape="rect" id="Node000008" href="$classCOperateFileTransfer.html" title="File transfer operate interface." alt="" coords="259,227,417,252"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="223,270,293,249,295,255,225,275"/>
+<area shape="rect" id="Node000009" href="$classCOperateTerminal.html" title="Terminal operate interface." alt="" coords="269,276,407,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="224,286,268,286,268,291,224,291"/>
+<area shape="rect" id="Node000015" href="$classCOperateWakeOnLan.html" title="Wake on lan operate interface." alt="" coords="259,325,417,351"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="225,302,295,323,293,328,223,307"/>
+<area shape="rect" id="Node000016" href="$classCScreenCapture.html" title=" " alt="" coords="275,375,401,400"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="194,310,224,336,260,361,286,372,284,377,257,366,221,341,191,313"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,276,80,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,286,128,286,128,291,94,291"/>
+<area shape="rect" id="Node000004" href="$classCOperateFreeRDP.html" title=" " alt="" coords="482,5,621,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="367,94,412,66,464,40,496,28,498,33,466,44,414,71,370,99"/>
+<area shape="rect" id="Node000005" href="$classCOperateLibVNCServer.html" title=" " alt="" coords="465,55,637,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="406,98,495,77,496,83,407,103"/>
+<area shape="rect" id="Node000006" href="$classCOperatePlayer.html" title=" " alt="" coords="489,104,613,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="421,114,489,114,489,119,421,119"/>
+<area shape="rect" id="Node000007" href="$classCOperateVnc.html" title=" " alt="" coords="498,153,605,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="407,130,498,151,497,156,406,135"/>
+<area shape="rect" id="Node000010" href="$classCOperateRawStream.html" title=" " alt="" coords="472,203,631,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="394,269,416,261,464,237,499,225,500,231,466,242,418,266,396,274"/>
+<area shape="rect" id="Node000011" href="$classCOperateSSH.html" title=" " alt="" coords="497,252,606,277"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="421,277,496,268,497,273,421,282"/>
+<area shape="rect" id="Node000012" href="$classCOperateSerialPort.html" title=" " alt="" coords="478,301,625,327"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="421,296,478,303,478,308,421,301"/>
+<area shape="rect" id="Node000013" href="$classCOperateTelnet.html" title=" " alt="" coords="490,351,613,376"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="397,303,418,312,466,337,499,348,498,353,464,342,416,316,395,308"/>
+<area shape="rect" id="Node000014" href="$classCTerminal.html" title=" " alt="" coords="508,400,595,425"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="409,305,419,312,436,331,444,351,451,369,467,387,487,397,508,404,507,409,485,402,464,391,447,372,439,353,431,334,416,316,406,310"/>
+</map>
