@@ -288,7 +288,7 @@ https://github.com/user-attachments/assets/06165fd8-ae12-4565-b3ee-2cfb7a80bc78
 ## [开发](docs/Doxygen/Develop_zh_CN.md)
 
 ### 在线开发文档
-- [sourceforge](https://rabbitremotecontrol.sourceforge.io/v0.0.36/Chinese/html/index.html)
+- [sourceforge](https://rabbitremotecontrol.sourceforge.io/v0.1.0-bate/Chinese/html/index.html)
 - [github.io](https://kanglin.github.io/RabbitRemoteControl/Chinese/html/index.html)
 
 ### 编译
